@@ -1,0 +1,6 @@
+database:
+  dsn: "postgres://postgres:123123@postgres-service:5432/postgres?sslmode=disable"
+
+server:
+  host: ""
+  port: 8080
